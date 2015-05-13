@@ -1,2 +1,2 @@
 # gitskills
-good afternoon!
+Creating a new branch is quick AND simple.
